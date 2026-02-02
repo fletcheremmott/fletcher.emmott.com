@@ -2,7 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Portfolio | Software Engineer',
+  title: 'Fletcher Emmott | SWE Portfolio',
   description: 'Portfolio showcasing software engineering projects and skills',
   keywords: ['software engineer', 'portfolio', 'web development', 'projects'],
 }
